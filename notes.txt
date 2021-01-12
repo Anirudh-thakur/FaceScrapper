@@ -1,0 +1,3 @@
+
+https://www.digitalocean.com/community/tutorials/how-to-detect-and-extract-faces-from-an-image-with-opencv-and-python
+https://www.makeartwithpython.com/blog/deal-with-it-generator-face-recognition/
